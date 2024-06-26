@@ -82,3 +82,18 @@ Worko is a product designed to help job seekers request referrals from multiple 
 
 ## Project Structure
 
+├── controllers
+│ ├── userController.js
+├── middleware
+│ ├── auth.js
+├── models
+│ ├── userModel.js
+├── routes
+│ ├── userRoutes.js
+├── services
+│ ├── userService.js
+├── validators
+│ ├── userValidator.js
+├── .env
+├── package.json
+├── server.js
